@@ -2,6 +2,7 @@
 Analysis of Hotel Booking data from around the world.
 To view the Project opne any of the .ipynb ad wait for few seconds.
 In this Project i have analysed the the hotel booking from around the world.
+
 Exploratory Data Analysis of different such as:
 -Where do the guests come from?
 -Home country of Guests, perform Spatial Analysis.
